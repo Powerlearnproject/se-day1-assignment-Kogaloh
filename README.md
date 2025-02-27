@@ -19,28 +19,44 @@ Deploying
 Maintaining software solutions that are scalable, secure, and efficient.
 
 **Importance**
+
 **Drives Innovation** – Powers AI, Blockchain, IoT, and Cloud Computing.
+
 **Ensures Quality & Reliability** – Reduces software failures and security risks.
+
 **Boosts Efficiency** – Agile and DevOps improve development speed and productivity.
+
 **Creates Jobs & Economic Growth** – A high-demand career field driving global GDP.
+
 **Supports Key Industries** – Essential in healthcare, finance, e-commerce, and transportation.
+
 **Enhances Cybersecurity** – Prevents cyber threats and ensures data protection.
+
 **Facilitates Scalability** – Enables global business operations through cloud computing.
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 **Birth of Software Engineering (1968)** – The NATO Conference introduced the term to address the Software Crisis, emphasizing structured development over ad-hoc programming.
+
 **Rise of Object-Oriented Programming (1970s-1980s)** – Languages like C++ and Java introduced OOP principles, making software modular, reusable, and maintainable.
+
 **Agile & DevOps Revolution (2001-Present)** – The Agile Manifesto promoted iterative development, while DevOps integrated automation, CI/CD, and cloud computing for faster, more reliable software deployment.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
 **Planning** – Establishing project goals, feasibility, and resource allocation.
+
 **Requirement Analysis** – Defining functional and technical needs of the software.
+
 **Design** – Creating system architecture, user interface, and database structure.
+
 **Development** – Writing and implementing code based on the design specifications.
+
 **Testing** – Identifying and fixing bugs through various testing methods.
+
 **Deployment** – Releasing the software for users in a controlled manner.
+
 **Maintenance** – Providing updates, bug fixes, and performance improvements
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
