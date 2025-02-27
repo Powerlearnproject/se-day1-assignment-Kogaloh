@@ -63,7 +63,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 **Agile is iterative and flexible, breaking work into smaller cycles** (sprints) with continuous feedback. It allows for changing requirements, frequent testing, and regular customer collaboration. Agile reduces risk by continuously assessing and improving the product throughout development.
 
-                                    **Scenarios**
+**Scenarios**
                                     
 **Waterfall is ideal for:** Well-defined projects with fixed requirements (e.g., enterprise banking systems). Regulated industries requiring strict documentation (e.g., healthcare, aviation). Construction & Manufacturing software, where changes are costly after development starts.
 
