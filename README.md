@@ -14,9 +14,7 @@ Coding
 
 Testing
 
-Deploying
-
-Maintaining software solutions that are scalable, secure, and efficient.
+Deploying, Maintaining software solutions that are scalable, secure, and efficient.
 
 **Importance**
 
@@ -64,26 +62,39 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 **Waterfall follows a linear and sequential process** where each phase (planning, design, development, testing, deployment) must be completed before moving to the next. It is rigid, making changes difficult once development starts. Testing happens at the end, increasing risks if issues arise late. Customer involvement is limited, and the final product is delivered only at the end.
 
 **Agile is iterative and flexible, breaking work into smaller cycles** (sprints) with continuous feedback. It allows for changing requirements, frequent testing, and regular customer collaboration. Agile reduces risk by continuously assessing and improving the product throughout development.
+
                                     **Scenarios**
+                                    
 **Waterfall is ideal for:** Well-defined projects with fixed requirements (e.g., enterprise banking systems). Regulated industries requiring strict documentation (e.g., healthcare, aviation). Construction & Manufacturing software, where changes are costly after development starts.
+
 **Agile is ideal for:** Dynamic projects where requirements may evolve (e.g., mobile apps, startups). Customer-centric applications needing frequent updates (e.g., e-commerce platforms). SaaS (Software-as-a-Service) products, where continuous feedback and iteration are key.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 **Software Developer** – Designs, writes, and maintains software code, debugs issues, and collaborates with teams to build functional applications.
+
 **Quality Assurance (QA) Engineer** – Tests software for bugs, ensures performance and security, and works with developers to fix defects before release.
+
 **Project Manager (PM)** – Oversees project planning, manages teams, ensures deadlines are met, and communicates with stakeholders.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 **Integrated Development Environments (IDEs)** improve coding efficiency by providing features like syntax highlighting, debugging, and project management (e.g., VS Code, IntelliJ IDEA, PyCharm).
+
 **Version Control Systems (VCS)** help track code changes, enable collaboration, and prevent data loss through branching, merging, and rollback features (e.g., Git, SVN, Mercurial).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 **Debugging Issues** – Use debugging tools, unit tests, and systematic debugging techniques.
+
 **Keeping Up with Technology** – Learn continuously through courses, blogs, and open-source projects.
+
 **Managing Deadlines & Workload** – Use Agile methods, break tasks into sprints, and set realistic goals.
+
 **Code Maintainability** – Follow best practices, document code, and refactor regularly.
+
 **Collaboration Issues** – Use tools like Slack/Jira, hold regular meetings, and document requirements clearly.
+
 **Security Risks** – Implement secure coding, conduct security testing, and stay updated on threats.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -98,24 +109,36 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 Example; A client testing a new payroll system before approving its launch.
 
 **Importance of these tests**
+
 Detects and fixes bugs early.
+
 Improves software reliability and performance.
+
 Ensures smooth user experience and compliance with requirements.
+
 Reduces post-deployment failures and maintenance costs.
+
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
   Prompt engineering is the practice of designing and refining input prompts to effectively communicate with AI models, ensuring accurate, relevant, and high-quality responses. It involves structuring queries to optimize the AI's understanding and output.
 
   **Importance of AI Models**
+  
 **Enhances AI Accuracy** – Well-structured prompts lead to more precise and contextually relevant responses.
+
 **Improves Efficiency** – Reduces trial-and-error by optimizing prompts for desired outputs.
+
 **Expands AI Capabilities** – Helps unlock the full potential of AI in creative tasks, coding, and data analysis.
+
 **Better User Experience** – Ensures clear, useful, and actionable results for users
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 **Vague Prompt:** "Give me business ideas."
+
 **Clear Prompt:** "List five profitable online business ideas for 2024, explaining their startup costs and potential challenges."
