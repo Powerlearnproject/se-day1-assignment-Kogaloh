@@ -6,7 +6,17 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software Engineering is the structured application of engineering principles to software development. It involves designing, coding, testing, deploying, and maintaining software solutions that are scalable, secure, and efficient.
+Software Engineering is the structured application of engineering principles to software development. It involves:
+
+Designing
+
+Coding
+
+Testing
+
+Deploying
+
+Maintaining software solutions that are scalable, secure, and efficient.
 
 **Importance**
 **Drives Innovation** – Powers AI, Blockchain, IoT, and Cloud Computing.
