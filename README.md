@@ -99,48 +99,47 @@ Software Engineering is the structured application of engineering principles to 
 
 - Security Risks – Implement secure coding, conduct security testing, and stay updated on threats.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## Q8: Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-**Unit Testing** Tests individual components (functions, classes, or modules) in isolation. Purpose; Ensures each unit works correctly before integration. Example; Testing a login function to verify correct password validation.
+- Unit Testing Tests:  individual components (functions, classes, or modules) in isolation. Purpose; Ensures each unit works correctly before integration. Example; Testing a login function to verify correct password validation.
 
-**Integration Testing** Tests the interaction between multiple components or modules. Purpose; Identifies issues in data flow and communication between modules. Example; Checking if the payment gateway integrates properly with an e-commerce app.
+- Integration Testing: Tests the interaction between multiple components or modules. Purpose; Identifies issues in data flow and communication between modules. Example; Checking if the payment gateway integrates properly with an e-commerce app.
 
-**System Testing** Tests the complete application as a whole. Purpose; Verifies that the entire system meets the specified requirements. Example; Running the entire banking application to check overall performance and security.
+- System Testing Tests: the complete application as a whole. Purpose; Verifies that the entire system meets the specified requirements. Example; Running the entire banking application to check overall performance and security.
 
-**Acceptance Testing**: Validates the software against business requirements before release. Purpose; Ensures the software meets end-user needs and is ready for deployment.
-Example; A client testing a new payroll system before approving its launch.
+- Acceptance Testing: Validates the software against business requirements before release. Purpose; Ensures the software meets end-user needs and is ready for deployment. Example; A client testing a new payroll system before approving its launch.
 
 **Importance of these tests**
 
-Detects and fixes bugs early.
+- Detects and fixes bugs early.
 
-Improves software reliability and performance.
+- Improves software reliability and performance.
 
-Ensures smooth user experience and compliance with requirements.
+- Ensures smooth user experience and compliance with requirements.
 
-Reduces post-deployment failures and maintenance costs.
-
-
-#Part 2: Introduction to AI and Prompt Engineering
+- Reduces post-deployment failures and maintenance costs.
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+## Part 2: Introduction to AI and Prompt Engineering
 
-  Prompt engineering is the practice of designing and refining input prompts to effectively communicate with AI models, ensuring accurate, relevant, and high-quality responses. It involves structuring queries to optimize the AI's understanding and output.
+
+## Q1: Define prompt engineering and discuss its importance in interacting with AI models.
+
+- Prompt engineering is the practice of designing and refining input prompts to effectively communicate with AI models, ensuring accurate, relevant, and high-quality responses. It involves structuring queries to optimize the AI's understanding and output.
 
   **Importance of AI Models**
   
-**Enhances AI Accuracy** – Well-structured prompts lead to more precise and contextually relevant responses.
+- Enhances AI Accuracy – Well-structured prompts lead to more precise and contextually relevant responses.
 
-**Improves Efficiency** – Reduces trial-and-error by optimizing prompts for desired outputs.
+- Improves Efficiency – Reduces trial-and-error by optimizing prompts for desired outputs.
 
-**Expands AI Capabilities** – Helps unlock the full potential of AI in creative tasks, coding, and data analysis.
+- Expands AI Capabilities – Helps unlock the full potential of AI in creative tasks, coding, and data analysis.
 
-**Better User Experience** – Ensures clear, useful, and actionable results for users
+- Better User Experience – Ensures clear, useful, and actionable results for users
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## Q2: Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-**Vague Prompt:** "Give me business ideas."
+- Vague Prompt: "Give me business ideas."
 
-**Clear Prompt:** "List five profitable online business ideas for 2024, explaining their startup costs and potential challenges."
+- Clear Prompt: "List five profitable online business ideas for 2024, explaining their startup costs and potential challenges."
